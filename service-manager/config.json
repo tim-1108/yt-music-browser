@@ -1,0 +1,9 @@
+{
+	"sessionRecoveryTimeout": 120,
+	"maxClients": 10,
+	"maxPacketLength": 4096,
+	"maxAudioLength": 900,
+	"maxTotalAudioLength": 3600,
+	"allowSameVideoMultipleTimes": true,
+	"downloadMinutes": 10
+}

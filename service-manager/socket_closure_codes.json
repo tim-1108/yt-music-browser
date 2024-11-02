@@ -1,0 +1,11 @@
+{
+	"default": 1000,
+	"shutting_down": 1001,
+	"protocol_error": 1002,
+	"invalid_data": 1003,
+	"invalid_text_data": 1007,
+	"message_too_large": 1009,
+	"invalid_packet_data": 4000,
+	"download_finished": 4001,
+	"packaging_failure": 4002
+}

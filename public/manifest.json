@@ -1,0 +1,20 @@
+{
+	"name": "YouTube Music Browser",
+	"short_name": "YT Browser",
+	"description": "A web app to browse songs, albums and artists on YouTube Music. Connect with an external downloader to start downloading audios.",
+	"lang": "en",
+	"icons": [
+		{
+			"src": "logo.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"launch_handler": {
+		"client_mode": "navigate-new"
+	}
+}

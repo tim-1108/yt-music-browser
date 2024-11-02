@@ -1,0 +1,15 @@
+{
+	"name": "service-manager",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "^1.1.6",
+		"@types/archiver": "^6.0.2"
+	},
+	"peerDependencies": {
+		"typescript": "^5.5.4"
+	},
+	"dependencies": {
+		"archiver": "^7.0.1"
+	}
+}
